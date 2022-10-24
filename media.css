@@ -1,0 +1,35 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+    main{
+        flex-direction: column;
+        }
+        
+    footer{
+        flex-direction: column;
+        }
+        
+    img{
+        display: none;
+        }
+        
+    .rectangle{
+        display: none;
+    }
+
+    .secao1{
+        flex-direction: column;
+    }
+
+    .rectangle2{
+        display: none;
+    }
+
+    #btn {
+        display: none;
+        
+    }
+
+    
+}
